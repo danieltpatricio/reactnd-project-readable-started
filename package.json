@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "A server for the Udacity Reddit Clone project for ReactND",
   "main": "index.js",
-  "script":{
-    "start":"cd api-server && node server"
+  "script": {
+    "start": "cd api-server && node server"
   },
   "keywords": [
     "udacity",
@@ -21,4 +21,4 @@
     "express": "^4.15.2",
     "clone": "^2.1.1"
   }
- }
+}
