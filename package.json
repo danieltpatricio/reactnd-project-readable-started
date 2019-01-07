@@ -4,7 +4,7 @@
   "description": "A server for the Udacity Reddit Clone project for ReactND",
   "main": "index.js",
   "script": {
-    "start": "node api-server/server"
+    "start": "node server"
   },
   "keywords": [
     "udacity",
